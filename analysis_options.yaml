@@ -1,0 +1,5 @@
+analyzer:
+      empty_statements: ignore
+errors:
+    avoid_print: ignore
+include: package:flutter_lints/flutter.yaml
